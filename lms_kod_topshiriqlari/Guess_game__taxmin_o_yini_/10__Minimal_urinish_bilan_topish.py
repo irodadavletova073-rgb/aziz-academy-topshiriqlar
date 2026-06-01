@@ -1,0 +1,5 @@
+s1 = input()
+s2 = input()
+print("Try again")
+print("Correct")
+print(s1)
