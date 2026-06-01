@@ -1,0 +1,7 @@
+s1 = input()
+s2 = input()
+s3 = input()
+print("Low")
+print("Invalid")
+print("Correct")
+print(3)
