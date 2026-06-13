@@ -1,0 +1,7 @@
+n = int(input())
+lst = list(map(int, input().split()))
+birinchi_pop = lst.pop()
+ikkinchi_pop = lst.pop()
+print(birinchi_pop)
+print(ikkinchi_pop)
+print(lst)
