@@ -1,0 +1,1 @@
+input(); print([len(s) for s in input().split()])
