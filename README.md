@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — ABIDJONOV HABIBULLO
+# 🎓 Aziz Academy — Abidjonov Habibullo
 
 **Kurs:** Dasturlash / IT
 
@@ -6,33 +6,33 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **1%**  (1/179 mavzu)
 
-- ⭐ Jami ball: **10836**
-- 📤 GitHubga yuborilgan topshiriqlar: **512**
+- ⭐ Jami ball: **18721**
+- 📤 GitHubga yuborilgan topshiriqlar: **513**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Dasturlashga kirish — Python nima va nega o'rganamiz**
+**MODUL 1 — Asoslar** → **Dasturlashga kirish - Python nima va nega o'rganamiz**
 
-➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
+➡️ Keyingi mavzu: *O'rnatish va muhit - Python, interpreter, IDE sozlash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz  ← yetgan joyingiz
-- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
-- ⬜ Birinchi dastur ⭐ — print() va kommentlar
-- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ⬜ Sonlar: int va float — butun va kasr sonlar
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
-- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
-- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
-- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ⬜ Mantiqiy operatorlar — and, or, not
-- ⬜ Solishtirish operatorlari — == != > < >= <=
-- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
-- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
-- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
-- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
+- ✅ Dasturlashga kirish - Python nima va nega o'rganamiz  ← yetgan joyingiz
+- ⬜ O'rnatish va muhit - Python, interpreter, IDE sozlash
+- ⬜ Birinchi dastur ⭐ - print() va kommentlar
+- ⬜ O'zgaruvchilar ⭐ - yaratish va nomlash qoidalari (snake_case)
+- ⬜ Sonlar: int va float - butun va kasr sonlar
+- ⬜ Stringlar - kirish: matn, qo'shtirnoqlar, len()
+- ⬜ Bool va mantiq - True/False, mantiqiy ifodalar
+- ⬜ input() bilan ishlash ⭐ - foydalanuvchidan ma'lumot olish
+- ⬜ Arifmetik operatorlar - + - * / // % ** va prioritet
+- ⬜ Mantiqiy operatorlar - and, or, not
+- ⬜ Solishtirish operatorlari - == != > < >= <=
+- ⬜ Type casting ⭐ - type(), int(), float(), str(), bool()
+- ⬜ 🛠 Mini-loyiha: Kalkulyator - ikki son ustida amallar (CLI)
+- ⬜ Kod madaniyati: PEP8 - bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 - syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-14 12:31</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-02 13:07</sub>
